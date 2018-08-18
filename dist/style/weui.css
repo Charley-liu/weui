@@ -2036,7 +2036,7 @@ a.weui-media-box:active{
   top:0;
   right:0;
   height:1px;
-  border-top:1px solid #D7D6DC;
+/*   border-top:1px solid #D7D6DC; */
   color:#D7D6DC;
   -webkit-transform-origin:0 0;
           transform-origin:0 0;
@@ -2050,7 +2050,7 @@ a.weui-media-box:active{
   bottom:0;
   right:0;
   height:1px;
-  border-bottom:1px solid #D7D6DC;
+/*   border-bottom:1px solid #D7D6DC; */
   color:#D7D6DC;
   -webkit-transform-origin:0 100%;
           transform-origin:0 100%;
